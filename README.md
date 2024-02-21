@@ -8,9 +8,8 @@
 * Screenshot
 
 # Installation
-
 ```bash
-git clone 
+git clone git@github.com:CLTJared/portfolio-react.git
 ```
 
 ## Usage
