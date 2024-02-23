@@ -11,6 +11,7 @@ export default function ErrorPage() {
       <p>
         <i>{error.statusText || error.message}</i>
       </p>
+      <p><a href="/">Click Here</a> to return to the home page.</p>
     </div>
   );
 }
