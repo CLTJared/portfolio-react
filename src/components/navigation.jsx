@@ -7,19 +7,19 @@ export default function Navigation() {
   return (
     <Navbar
       links={[
-        <Link key={1} className="nav-link text-primary" to="/">
+        <Link key={1} className="nav-link" to="/">
             Home
         </Link>,
-        <Link key={2} className="nav-link text-primary" to="/about">
+        <Link key={2} className="nav-link" to="/about">
             About Me
         </Link>,
-        <Link key={3} className="nav-link text-primary" to="/portfolio">
+        <Link key={3} className="nav-link" to="/portfolio">
             Portfolio
         </Link>,
-        <Link key={4} className="nav-link text-primary" to="/contact">
+        <Link key={4} className="nav-link" to="/contact">
             Contact
         </Link>,
-        <Link key={5} className="nav-link text-primary" to="http://www.hijared.us" target="_blank">
+        <Link key={5} className="nav-link" to="http://www.hijared.us" target="_blank">
             Resume
         </Link>,
       ]}
