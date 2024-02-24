@@ -5,13 +5,13 @@ export default function Project({ project, text, img, url, repo}) {
       <div className="card">
       <img src={img} className="card-img-top" alt={project} />
       <div className="card-body">
-        <h5 className="card-title">{project}</h5>
-        <p className="card-text">{text}</p>
+        <h5 className="card-title text-info">{project}</h5>
+        <small className="card-text">{text}</small>
       </div>
       <div className="card-footer">
         <small className="text-muted">
-          <Link className="btn btn-secondary" target="_blank" to={url}>Demo</Link>&nbsp;&nbsp;
-          <Link className="btn btn-secondary" target="_blank"  to={repo}>Repository</Link></small>
+          <Link className="btn btn-info" target="_blank" to={url}>Demo</Link>&nbsp;&nbsp;
+          <Link className="btn btn-info" target="_blank"  to={repo}>Repository</Link></small>
       </div>
     </div>
     );

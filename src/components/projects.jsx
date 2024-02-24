@@ -21,33 +21,33 @@ export default function Projects() {
             />
 
             <Project key={3} 
-                project={'Torq Rentals'} 
-                text={'Site developed to create an API to show different car(s) at different location(s). User authentication and reservations.'} 
+                project={'Group Project 3'} 
+                text={'Site developed using MERN stack. Currently WIP.'} 
                 img={'https://placehold.co/350x150'} 
                 url={'http://cltjared.github.io'} 
                 repo={'https://github.com/CLTJared/'}
             />
         </div>
-        <div class="card-group">
+        <div class="card-group mb-5">
             <Project key={4} 
-                project={'Torq Rentals'} 
-                text={'Site developed to create an API to show different car(s) at different location(s). User authentication and reservations.'} 
-                img={'https://placehold.co/350x150'} 
-                url={'http://cltjared.github.io'} 
-                repo={'https://github.com/CLTJared/'}
+                project={'API Routing'} 
+                text={'An API for a social network web application where users can share their thoughts, react to friends’ thoughts, and create a friend list.'} 
+                img={'insomnia-get-users.jpg'} 
+                url={'https://app.screencastify.com/v3/watch/3j5k7sGPTcb8Bo5kotF0'} 
+                repo={'https://github.com/CLTJared/Social-Network-API'}
             />
             
             <Project key={5} 
-                project={'Torq Rentals'} 
-                text={'Site developed to create an API to show different car(s) at different location(s). User authentication and reservations.'} 
+                project={'WIP'} 
+                text={'Project under development.'} 
                 img={'https://placehold.co/350x150'} 
                 url={'http://cltjared.github.io'} 
                 repo={'https://github.com/CLTJared/'}
             />
 
             <Project key={6} 
-                project={'Torq Rentals'} 
-                text={'Site developed to create an API to show different car(s) at different location(s). User authentication and reservations.'} 
+                project={'WIP'} 
+                text={'Project under development.'} 
                 img={'https://placehold.co/350x150'} 
                 url={'http://cltjared.github.io'} 
                 repo={'https://github.com/CLTJared/'}
