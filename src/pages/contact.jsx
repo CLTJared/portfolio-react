@@ -17,7 +17,7 @@ export default function ContactPage() {
                 <label htmlFor="email" className="form-label">Email</label>
                     <div className="input-group has-validation">
                     <span className="input-group-text" id="input-email">✉</span>
-                    <input type="text" className="form-control" id="email" aria-describedby="input-email" required />
+                    <input type="text" className="form-control" id="email" aria-describedby="input-email" placeholder="example@domain.com" required />
                     <div className="invalid-feedback">Please enter an email address.</div>
                 </div>
             </div>
