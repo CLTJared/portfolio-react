@@ -23,7 +23,7 @@ After cloning locally, run the following commands in your terminal.
 Visit my [Netlify Deployment](https://main--cltjared-react-portfolio.netlify.app/) to view a demo site.
 
 ## Screenshot
-[More goes here later]
+![Site](./porfolio.JPG)
 
 # Project Information
 Below you can find information on any technologies used, licensing, or other project information you may be interested in.
@@ -31,10 +31,10 @@ Below you can find information on any technologies used, licensing, or other pro
 ## Technologies Used
 | Package | Link | Description |
 | :--- | :--- | :--- |
-| Vite      |       |               |
-| React      |       |               |
-| Bootstrap      |       |               |
-| Bootstrap Minty | https://bootswatch.com/minty/ | Theme for bootstrap.  |
+| Vite      | https://www.npmjs.com/package/vite | Local testing, server & front-end |
+| React      | https://react.dev/ | Create components to re-use and develop front-end |
+| Bootstrap      | https://getbootstrap.com/ | CSS Framework to standarize development |
+| Bootstrap Minty | https://bootswatch.com/minty/ | Theme for bootstrap |
 
 
 ## License
