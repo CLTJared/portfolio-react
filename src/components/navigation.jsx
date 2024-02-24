@@ -19,7 +19,7 @@ export default function Navigation() {
         <Link key={4} className="nav-link" to="/contact">
             Contact
         </Link>,
-        <Link key={5} className="nav-link" to="http://www.hijared.us" target="_blank">
+        <Link key={5} className="nav-link" to="https://sites.google.com/view/www-hijared-us/home" target="_blank">
             Resume
         </Link>,
       ]}
